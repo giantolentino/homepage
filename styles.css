@@ -39,11 +39,9 @@ body {
   transition: all 0.3s ease-in-out;
 }
 
-@media (min-width: 36rem) {
-  .card:hover {
-    transform: translateY(-00.5rem);
-    box-shadow: 0 0 0.75rem #f9f9fb;
-  }
+.card:hover {
+  transform: translateY(-00.5rem);
+  box-shadow: 0 0 0.75rem #f9f9fb;
 }
 
 .logo {
