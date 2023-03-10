@@ -10,7 +10,7 @@ body {
 
 .card {
   aspect-ratio: 3/2;
-  height: auto;
+  background-color: #f9f9fb;
   border: 1px solid #f9f9fb;
   border-radius: 0.25rem;
   box-shadow: 0 0 0.125rem #f9f9fb;
@@ -21,4 +21,10 @@ body {
 .card:hover {
   transform: translateY(-00.25rem);
   box-shadow: 0 0 0.75rem #f9f9fb;
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
