@@ -2,10 +2,24 @@ body {
   background-color: #2b2a33;
 }
 
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
 .content {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+}
+
+@media (min-width: 36rem) {
+  .content {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    padding: 0 1rem;
+  }
 }
 
 .card {
