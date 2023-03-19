@@ -39,17 +39,17 @@ body {
 
 .card {
   aspect-ratio: 3/2;
-  background-color: #f9f9fb;
-  border: 1px solid #f9f9fb;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
   border-radius: 0.25rem;
-  box-shadow: 0 0 0.125rem #f9f9fb;
+  box-shadow: 0 0 0.125rem #f2f2f2;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
 
 .card:hover {
   transform: translateY(-00.5rem);
-  box-shadow: 0 0 0.75rem #f9f9fb;
+  box-shadow: 0 0 0.75rem #f2f2f2;
 }
 
 .logo {
