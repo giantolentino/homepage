@@ -1,3 +1,3 @@
 # homepage
 
-The purpose of this code is to create a simple homepage that provides quick links to popular streaming services. The layout consists of a grid of cards, each containing a logo and a link to the corresponding streaming service. The background is a slightly blurred image, providing a visually appealing backdrop to the cards. The design uses a clean and minimalist style, with muted colors and subtle box shadows.
+This code aims to create a user-friendly homepage that offers easy access to popular streaming services. The layout features a grid of cards, each displaying a logo and linking to the corresponding streaming platform. The background image is slightly blurred, adding a touch of visual elegance to the cards. The design adopts a clean and minimalist style, with soft colors and understated box shadows, for a modern and refined look.
